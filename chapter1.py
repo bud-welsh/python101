@@ -5,4 +5,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 Hello from Python!
 >>> print("IDLE is new to me") # but I have used comments in other languages
 IDLE is new to me
->>> 
+>>>
+
+print("IDLE (Integrated Development and Learning Environment)")
