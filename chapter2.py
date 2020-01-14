@@ -24,3 +24,4 @@ print(triple_quote_again)
 
 my_number = 123 # This is an integer
 my_string = str(my_number) # This makes the integer a string
+
