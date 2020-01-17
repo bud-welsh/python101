@@ -38,7 +38,7 @@ string_one_upper = string_one.upper()
 print(string_one_upper)
 # print(dir(string_one_upper))
 # print(help(string_one.capitalize))
-# string_one_capitalize = string_one.capitalize
-# print(string_one_capitalize)
+string_one_capitalize = string_one.capitalize()
+print(string_one_capitalize)
 
 
