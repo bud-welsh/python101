@@ -23,11 +23,22 @@ print(triple_quote)
 print(triple_quote_again)
 
 my_number = 123 # This is an integer
-my_string = str(my_number) # This makes the integer a string
+my_number_string = str(my_number) # This makes the integer a string
+print(type(my_number))
+print(type(my_number_string))
 
 # Concatination
 string_one = "Attention! Attention Please! "
 string_two = "Get your pencils and scorecards ready. "
 string_three = string_one + string_two
 print(string_three)
+
+# String Methods
+string_one_upper = string_one.upper()
+print(string_one_upper)
+# print(dir(string_one_upper))
+# print(help(string_one.capitalize))
+# string_one_capitalize = string_one.capitalize
+# print(string_one_capitalize)
+
 
