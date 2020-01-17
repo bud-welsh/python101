@@ -25,3 +25,9 @@ print(triple_quote_again)
 my_number = 123 # This is an integer
 my_string = str(my_number) # This makes the integer a string
 
+# Concatination
+string_one = "Attention! Attention Please! "
+string_two = "Get your pencils and scorecards ready. "
+string_three = string_one + string_two
+print(string_three)
+
